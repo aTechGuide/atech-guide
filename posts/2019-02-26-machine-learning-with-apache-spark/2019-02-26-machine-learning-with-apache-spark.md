@@ -4,7 +4,7 @@ description: We will look into how Apache Spark works and its components viz, Sp
 pagetitle: Introduction of Apache Spark
 summary: Apache Spark internal working and its components viz, Spark Core, Spark Streaming, Spark SQL, MLLib, GraphX. We will build a machine learning application based on linear regression.
 date: '2019-02-26'
-update_date: '2019-03-19'
+update_date: '2019-09-08'
 tags:
   - Apache Spark
 label:
@@ -277,6 +277,7 @@ That's all we need as of now.
 <br/>
 
 Let's build a sample machine learning application performing 
+
 ## Linear Regression using Apache Spark
 
 <br/>
@@ -286,7 +287,7 @@ In a nutshell,
 
 <br/>
 
-I've discussed Machine Learning deeply in [this]({% post_url 2018-11-14-machine-learning %}){:target="_blank"} post, regression algorithms in [this]({% post_url 2019-01-09-regression-in-machine-learning %}){:target="_blank"} post and classification algorithms in [this]({% post_url 2019-01-09-regression-in-machine-learning %}){:target="_blank"} post.
+I've discussed Machine Learning deeply in [this](/machine-learning){:target="_blank"} post, regression algorithms in [this](/regression-in-machine-learning){:target="_blank"} post and classification algorithms in [this](/classification-in-machine-learning){:target="_blank"} post.
 
 <br/>
 

@@ -4,10 +4,9 @@ description: Let's explore classification in machine learning viz Logistic Regre
 pagetitle: Classification in Machine Learning 
 summary: Classification in machine learning viz Logistic Regression, K-Nearest Neighbors, Support Vector Machine, Kernel SVM, Naive Bayes, Decision Tree Classification, Random Forest Classification 
 date: '2019-01-14'
-update_date: '2019-01-14'
+update_date: '2019-09-08'
 tags:
   - Machine Learning
-  - Classification
 label:
   - MachineLearning
 slug: classification-in-machine-learning
