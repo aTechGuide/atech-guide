@@ -12,7 +12,7 @@ label:
   - Spring
 slug: spring-aerospike
 published: true
-image: ../common/atech-guide.png
+image: ../../common/atech-guide.png
 ---
 
 ## What is Aerospike

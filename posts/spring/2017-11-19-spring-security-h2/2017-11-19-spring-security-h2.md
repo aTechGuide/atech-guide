@@ -12,7 +12,7 @@ label:
   - Spring
 slug: spring-security-h2
 published: true
-image: ../common/atech-guide.png
+image: ../../common/atech-guide.png
 ---
 
 ## Introduction 

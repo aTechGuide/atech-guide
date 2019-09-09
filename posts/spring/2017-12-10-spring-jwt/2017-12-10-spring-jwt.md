@@ -12,7 +12,7 @@ label:
   - Spring
 slug: springJWT
 published: true
-image: ../common/atech-guide.png
+image: ../../common/atech-guide.png
 ---
 
 ## What is JWT
