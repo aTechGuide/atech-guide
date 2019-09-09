@@ -6,7 +6,7 @@ summary: Composite Pattern is a structural design pattern which is used when we 
 date: '2018-01-02'
 update_date: '2019-09-09'
 tags:
-  - Structural Design Pattern
+  - Design Pattern
 label:
   - DesignPattern
 slug: design-pattern/composite-pattern
