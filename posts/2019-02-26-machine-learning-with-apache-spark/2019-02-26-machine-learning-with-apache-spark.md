@@ -4,7 +4,7 @@ description: We will look into how Apache Spark works and its components viz, Sp
 pagetitle: Introduction of Apache Spark
 summary: Apache Spark internal working and its components viz, Spark Core, Spark Streaming, Spark SQL, MLLib, GraphX. We will build a machine learning application based on linear regression.
 date: '2019-02-26'
-update_date: '2019-09-08'
+update_date: '2019-09-11'
 tags:
   - Apache Spark
 label:
@@ -207,7 +207,7 @@ That's enough of theory, let's look into
 ## Software Installation
 
 ### Install Java
-Use [this](https://www.java.com/en/download/){:target="_blank"} link to install Java 8.  
+Use this [link to install Java 8](https://www.java.com/en/download/){:target="_blank"} .  
 
 ### Install Apache Spark
 We can use Homebrew to install Apache Spark by hitting `brew install apache-spark`.  
@@ -287,7 +287,7 @@ In a nutshell,
 
 <br/>
 
-I've discussed Machine Learning deeply in [this](/machine-learning){:target="_blank"} post, regression algorithms in [this](/regression-in-machine-learning){:target="_blank"} post and classification algorithms in [this](/classification-in-machine-learning){:target="_blank"} post.
+I've deeply discussed [Machine Learning](/machine-learning){:target="_blank"}, [Regression Algorithms](/regression-in-machine-learning){:target="_blank"} and [Classification Algorithms](/classification-in-machine-learning){:target="_blank"} previously. 
 
 <br/>
 

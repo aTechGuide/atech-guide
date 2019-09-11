@@ -65,7 +65,7 @@ module.exports = {
         mergeStyleHashes: false, 
         mergeDefaultDirectives: true,
         directives: {
-          "default-src": "'self' https://disqus.com https://c.disquscdn.com ",
+          "default-src": "'self' https://disqus.com https://c.disquscdn.com www.google-analytics.com",
           "script-src": "'self' 'unsafe-inline' www.google-analytics.com https://kamranali.disqus.com", //<- 'unsafe-inline' is unsafe and is required by Disqus
           "style-src": "'self' 'unsafe-inline' https://c.disquscdn.com", //<- "'unsafe-inline'" should be avoided but the plugin was broken with mergeStyleHashes
           "img-src": "'self' data: www.google-analytics.com https://referrer.disqus.com https://c.disquscdn.com"
