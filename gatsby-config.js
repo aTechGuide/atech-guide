@@ -14,7 +14,12 @@ module.exports = {
     ],
     contactSupport: 'https://www.facebook.com/aTechGuide/',
     bingId: '',
-    menuLinks: [{name: 'Tags', link: '/tags/'}],
+    menuLinks: [
+      {name: 'Blockchain', link: '/tag/blockchain/'}, 
+      {name: 'Machine Learning', link: '/tag/machine-learning/'},
+      {name: 'System Design', link: '/tag/system-design/'},
+      {name: 'Tags', link: '/tags/'}
+    ],
     footerLinks: [{name: 'About', link: '/detailed-tech-tutorials/'}, {name: 'Terms of Use', link: '/terms-of-use/'}, {name: 'Privacy Policy', link: '/privacy-policy/'}],
     displayFooterMessage: true,
     comments: 'true' // Enable disable comments
