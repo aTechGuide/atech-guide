@@ -1,3 +1,4 @@
 User-agent: *
-Allow: /demo-post/
-Disallow: /
+Allow: /
+
+Sitemap: https://atech.guide/sitemap.xml
