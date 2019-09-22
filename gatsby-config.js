@@ -24,7 +24,6 @@ module.exports = {
     displayFooterMessage: true,
     comments: 'true' // Enable disable comments
   },
-  //__experimentalThemes: ['gatsby-theme-blog-starter'],
   plugins: [
     {
       resolve: "gatsby-theme-blog-starter",
