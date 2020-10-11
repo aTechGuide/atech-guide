@@ -74,7 +74,7 @@ module.exports = {
           "script-src": "'self' 'unsafe-inline' www.google-analytics.com kamranali.disqus.com", //<- 'unsafe-inline' is unsafe and is required by Disqus
           "style-src": "'self' 'unsafe-inline' c.disquscdn.com", //<- "'unsafe-inline'" should be avoided but the plugin was broken with mergeStyleHashes
           "img-src": "'self' data: www.google-analytics.com referrer.disqus.com c.disquscdn.com",
-          "form-action": "'self' https://kamranali.us17.list-manage.com/subscribe/post?u=835b966c8e4fb4811d20a1b0c&amp;id=1ccb85525c"
+          "form-action": "'self' kamranali.us17.list-manage.com"
         }
       }
     }
