@@ -4,7 +4,7 @@ description: Let's explore regression in machine learning viz Simple Linear Regr
 pagetitle: Regression in Machine Learning 
 summary: Let's explore regression in machine learning viz Simple Linear Regression, Multiple Linear Regression, Polynomial Regression, Support Vector Regression, Decision Tree and Random Forest
 date: '2019-01-09'
-update_date: '2019-09-08'
+update_date: '2020-11-01'
 tags:
   - Machine Learning
 label:
@@ -306,7 +306,7 @@ One fine point to note here is `State` is a Categorical Variable, so we need to 
 
 <br/>
 
-We will follow the **Step 5**{: .heading2} dicussed in [this](/machine-learning}){:target="_blank"} post to create dummy Variables of each category (New York and Florida in our case).
+We will follow the **Step 5**{: .heading2} dicussed in [this](/machine-learning){:target="_blank"} post to create dummy Variables of each category (New York and Florida in our case).
 
 <br/>
 
