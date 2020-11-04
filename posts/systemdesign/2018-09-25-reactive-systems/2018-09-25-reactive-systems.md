@@ -205,7 +205,7 @@ Management of resources under varying workload is a very powerful concept
 - Non-blocking communication facilitates only consume resources while active, leading to less system overhead.
 
 ## Conclusion
-I would like to conclude it by suggesting the readers to look into/apply the characteristics discussed above, next time they are building New System. You may also look into the case study of [How Paypal is handling billions of requests per day on 8 VMs and 2 vCPU?](https://www.paypal-engineering.com/2016/05/11/squbs-a-new-reactive-way-for-paypal-to-build-applications/){:target="_blank" rel="nofollow noopener"} by building Reactive Systems on Akka and Squbs.
+I would like to conclude it by suggesting the readers to look into/apply the characteristics discussed above, next time they are building New System. You may also look into the case study of [How Paypal is handling billions of requests per day on 8 VMs and 2 vCPU?](https://medium.com/paypal-engineering/squbs-a-new-reactive-way-for-paypal-to-build-applications-127126bf684b){:target="_blank" rel="nofollow noopener"} by building Reactive Systems on Akka and Squbs.
 
 <br/>
 
@@ -217,4 +217,4 @@ See everything boils down to the satisfaction of your customer/client when they 
 - [Reactive manifesto](https://www.reactivemanifesto.org/){:target="_blank" rel="nofollow noopener"}
 - [Reactive manifesto glossary](https://www.reactivemanifesto.org/glossary){:target="_blank" rel="nofollow noopener"}
 - [Tech Primers - What is Reactive Programming?](https://www.youtube.com/watch?v=0ueFTvSdxpw){:target="_blank" rel="nofollow noopener"}
-- [O Reilly https://www.oreilly.com/ideas/reactive-programming-vs-reactive-systems](https://www.oreilly.com/ideas/https://www.oreilly.com/ideas/reactive-programming-vs-reactive-systems){:target="_blank" rel="nofollow noopener"}
+- [O Reilly - reactive-programming-vs-reactive-systems](https://www.oreilly.com/radar/reactive-programming-vs-reactive-systems/){:target="_blank" rel="nofollow noopener"}

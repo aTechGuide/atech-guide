@@ -10,7 +10,7 @@ tags:
   - OAuth2
 label:
   - Spring
-slug: SpringOAuth2
+slug: springoauth2
 published: true
 image: ./OAuth2.png
 ---

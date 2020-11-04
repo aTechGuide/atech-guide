@@ -40,10 +40,10 @@ Aerospike consists of 3 layers
 ## Aerospike Installation
 
 ### MAC Installation
-For vagrant installation follow [this](https://www.aerospike.com/docs/operations/install/vagrant/mac) URL
+For vagrant installation follow [this](https://www.aerospike.com/docs/operations/install/vagrant/mac/) URL
 
 ### Docker Installation
-I've used docker to [install Aerospike](https://www.aerospike.com/docs/deploy_guides/docker) on my machine
+I've used docker to [install Aerospike](https://www.aerospike.com/docs/deploy_guides/docker/) on my machine
 
 #### Commands
 
@@ -199,7 +199,7 @@ GET http://localhost:8080/rest/users
 
 POST http://localhost:8080/rest/users { "id": 1, "name": "Kamran", "salary": 1234 }
 
-To access the full working code sample, click [here](https://github.com/kamranalinitb/springboot-blog/tree/master/aerospike){:target="_blank" rel="nofollow"}
+To access the full working code sample, click [here](https://github.com/atechguide/springboot-blog/tree/master/aerospike){:target="_blank" rel="nofollow"}
 
 ## References
 - [What is Aerospike? | Hybrid Architecture used by Flipkart | Tech Primers](https://www.youtube.com/watch?v=cf0-oXdChLY&t=380s){:target="_blank" rel="nofollow"}

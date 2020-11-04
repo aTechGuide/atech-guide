@@ -225,6 +225,6 @@ The intention of this article is to act as brief docker wiki. We tried to touch 
 
 ## Reference
 - [Nigel Poulton - Courses on Docker](https://www.pluralsight.com/authors/nigel-poulton){:target="_blank" rel="nofollow" rel="noopener"}
-- [Blog.docker.com](https://blog.docker.com/2014/03/docker-0-9-introducing-execution-drivers-and-libcontainer/){:target="_blank" rel="nofollow" rel="noopener"}
+- [Blog.docker.com](https://www.docker.com/blog/docker-0-9-introducing-execution-drivers-and-libcontainer/){:target="_blank" rel="nofollow" rel="noopener"}
 - [Ian Lewis container-runtimes](https://www.ianlewis.org/en/container-runtimes-part-1-introduction-container-r)
 - [Docker.com](https://www.docker.com/resources/what-container)

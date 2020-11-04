@@ -287,7 +287,7 @@ In a nutshell,
 
 <br/>
 
-I've deeply discussed [Machine Learning](/machine-learning){:target="_blank"}, [Regression Algorithms](/regression-in-machine-learning){:target="_blank"} and [Classification Algorithms](/classification-in-machine-learning){:target="_blank"} previously. 
+I've deeply discussed [Machine Learning](/machine-learning/){:target="_blank"}, [Regression Algorithms](/regression-in-machine-learning/){:target="_blank"} and [Classification Algorithms](/classification-in-machine-learning/){:target="_blank"} previously. 
 
 <br/>
 
@@ -313,7 +313,7 @@ Let's quickly create a model based on the following data, Where we would be pred
 
 <br/>
 
-Click [here](https://github.com/kamranalinitb/machine-learning/blob/master/data/Part%202%20-%20Regression/Section%204%20-%20Simple%20Linear%20Regression/Salary_Data.csv){:target="_blank" rel="nofollow" rel="noopener"} to get Full data.  
+Click [here](https://github.com/aTechGuide/machine-learning/blob/master/algorithms/regression/simple_linear_regression/Salary_Data.csv){:target="_blank" rel="nofollow" rel="noopener"} to get Full data.  
 **Data Credits**{: .exception} This data is take from [**Superdatascience**](https://www.superdatascience.com/machine-learning/ ){:target="_blank" rel="nofollow" rel="noopener"} data set
 
 <br/>
@@ -490,7 +490,7 @@ Its performance over map-reduce and features like GraphX, Spark SQL, etc. make i
 ## Reference
 - [Aapache Spark Org](https://spark.apache.org/){:target="_blank" rel="nofollow" rel="noopener"}
 - [Aapache Spark Org, Cluster Overview](https://spark.apache.org/docs/latest/cluster-overview.html){:target="_blank" rel="nofollow" rel="noopener"}
-- [Apache spark with scala hands on with big data](https://www.udemy.com/apache-spark-with-scala-hands-on-with-big-data/){:target="_blank" rel="nofollow" rel="noopener"}
+- [Apache spark with scala hands on with big data](https://www.udemy.com/course/apache-spark-with-scala-hands-on-with-big-data/){:target="_blank" rel="nofollow" rel="noopener"}
 - [Install Specific version of Apache Spark](https://stackoverflow.com/questions/49808951/how-to-install-apache-spark-2-2-0-with-homebrew-on-mac/49812624){:target="_blank" rel="nofollow" rel="noopener"}
 - [Getting started with spark on osx](https://oleweidner.com/blog/2015/getting-started-with-spark-on-osx/){:target="_blank" rel="nofollow" rel="noopener"}
 - [Graphx programming guide](https://spark.apache.org/docs/latest/graphx-programming-guide.html){:target="_blank" rel="nofollow" rel="noopener"}

@@ -1389,7 +1389,7 @@ That's it folks, that how classification in Machine Learning Rocks.
 
 ## Reference
 - [Machine learning Wiki](https://en.wikipedia.org/wiki/Machine_learning){:target="_blank" rel="nofollow" rel="noopener"}
-- [Machine Learning A-Z™: Hands-On Python & R In Data Science](https://www.udemy.com/machinelearning/){:target="_blank" rel="nofollow" rel="noopener"}
-- [Aws machine learning a complete guide with python](https://www.udemy.com/aws-machine-learning-a-complete-guide-with-python/){:target="_blank" rel="nofollow" rel="noopener"}
+- [Machine Learning A-Z™: Hands-On Python & R In Data Science](https://www.udemy.com/course/machinelearning/){:target="_blank" rel="nofollow" rel="noopener"}
+- [Aws machine learning a complete guide with python](https://www.udemy.com/course/aws-machine-learning-a-complete-guide-with-python/){:target="_blank" rel="nofollow" rel="noopener"}
 
 <!-- Data Set: [here](https://www.superdatascience.com/machine-learning/ ){:target="_blank" rel="nofollow" rel="noopener"} -->

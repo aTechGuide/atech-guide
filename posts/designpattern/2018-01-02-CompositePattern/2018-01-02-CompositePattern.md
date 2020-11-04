@@ -160,7 +160,7 @@ Leaf: Developer
 - Duplication of data (in our example we have created two lists)
 - Overly simple, So people may tend to create more and more composite classes without giving due consideration
 
-To access the full working code sample, click [here](https://github.com/kamranalinitb/designpattern-blog/tree/master/structural/src/main/java/composite "Composite"){:target="_blank" rel="nofollow noopener"}
+To access the full working code sample, click [here](https://github.com/atechguide/designpattern-blog/tree/master/structural/src/main/java/composite "Composite"){:target="_blank" rel="nofollow noopener"}
 
 ## References
 - [Composite Design Pattern | Implementation and Disadvantages | Clean Code Series](https://www.youtube.com/watch?v=3wmXiuZFReU){:target="_blank" rel="nofollow noopener"}

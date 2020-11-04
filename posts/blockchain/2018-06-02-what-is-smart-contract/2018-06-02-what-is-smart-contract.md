@@ -70,6 +70,6 @@ To implement smart contract, we can use Ethereum blockchain. Ethereum uses *proo
 Any value that is tracked on a ledger for e.g. results of polling system, copyrights etc can be modeled into a smart contract, leveraging all the benefits of using Blockchain.
 
 ## References
-- [Getting Started With Ethereum Solidity Development](https://www.udemy.com/getting-started-with-ethereum-solidity-development/){:target="_blank" rel="nofollow" rel="noopener"}
-- [Ethereum Masterclass](https://www.udemy.com/ethereum-masterclass/){:target="_blank" rel="nofollow" rel="noopener"}
-- [solidity.readthedocs](http://solidity.readthedocs.io/){:target="_blank" rel="nofollow" rel="noopener"}
+- [Getting Started With Ethereum Solidity Development](https://www.udemy.com/course/getting-started-with-ethereum-solidity-development/){:target="_blank" rel="nofollow" rel="noopener"}
+- [Ethereum Masterclass](https://www.udemy.com/course/ethereum-masterclass/){:target="_blank" rel="nofollow" rel="noopener"}
+- [solidity.readthedocs](https://solidity.readthedocs.io/en/v0.7.4/){:target="_blank" rel="nofollow" rel="noopener"}

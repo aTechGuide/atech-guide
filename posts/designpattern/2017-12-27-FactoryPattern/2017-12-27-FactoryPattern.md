@@ -69,7 +69,7 @@ public class FactoryExample {
 - Creation in subclass (which abstracts lot of things as we don't know what is happening)
 - Refactoring is difficult (Too much code to modify)
  
-To access the full working code sample, click [here](https://github.com/kamranalinitb/designpattern-blog/tree/master/creational/src/main/java/factory "Factory"){:target="_blank" rel="nofollow noopener"}
+To access the full working code sample, click [here](https://github.com/atechguide/designpattern-blog/tree/master/creational/src/main/java/factory "Factory"){:target="_blank" rel="nofollow noopener"}
 
 ## References
 - [Factory Design Pattern | Implementation and Disadvantages | Clean Code Series](https://www.youtube.com/watch?v=a46oBUV8mZ4 "Factory Design Pattern"){:target="_blank" rel="nofollow noopener"}

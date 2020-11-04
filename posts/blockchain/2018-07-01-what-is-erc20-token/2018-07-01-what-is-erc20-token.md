@@ -112,7 +112,6 @@ contract ERC20Interface {
 - ```uint8 public constant decimals = 18;``` Decimals give us room to spend fraction of a token.
 
 ## References 
-- [Ethereum Masterclass](https://www.udemy.com/ethereum-masterclass/){:target="_blank" rel="nofollow" rel="noopener"}
-- [ERC20_Token_Standard](https://theethereum.wiki/w/index.php/ERC20_Token_Standard){:target="_blank" rel="nofollow" rel="noopener"}
+- [Ethereum Masterclass](https://www.udemy.com/course/ethereum-masterclass/){:target="_blank" rel="nofollow" rel="noopener"}
 - [GitHub EIPS/eip-20](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-20.md){:target="_blank" rel="nofollow" rel="noopener"}
 - [Cryptozombies.io](https://cryptozombies.io/){:target="_blank" rel="nofollow" rel="noopener"}

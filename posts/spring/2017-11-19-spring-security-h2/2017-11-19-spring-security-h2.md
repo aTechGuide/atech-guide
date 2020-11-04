@@ -75,7 +75,7 @@ public class SecurityConfig extends WebSecurityConfigurerAdapter {
 ```
 
 You're good to go.   
-To access the full working code sample, click [here](https://github.com/kamranalinitb/springboot-blog/tree/master/security-h2){:target="_blank" rel="nofollow"}
+To access the full working code sample, click [here](https://github.com/atechguide/springboot-blog/tree/master/security-h2){:target="_blank" rel="nofollow"}
 
 ### References
 - [Spring Frameworkguru](https://springframework.guru/using-the-h2-database-console-in-spring-boot-with-spring-security/){:target="_blank" rel="nofollow"}

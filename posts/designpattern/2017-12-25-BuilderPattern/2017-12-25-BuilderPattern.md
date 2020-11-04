@@ -128,7 +128,7 @@ public class BuilderExample {
 - Contains Inner Static class
 - Complex 
  
-To access the full working code sample, click [here](https://github.com/kamranalinitb/designpattern-blog/tree/master/creational/src/main/java/builder "Builder"){:target="_blank" rel="nofollow noopener"}
+To access the full working code sample, click [here](https://github.com/atechguide/designpattern-blog/tree/master/creational/src/main/java/builder "Builder"){:target="_blank" rel="nofollow noopener"}
 
 ## References
 - [Builder Design Pattern | Implementation and Disadvantages | Clean Code Series](https://www.youtube.com/watch?v=YmEVYvELt28){:target="_blank" rel="nofollow noopener"}

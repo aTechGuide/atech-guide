@@ -80,7 +80,7 @@ public class AdapterExample {
 ## Disadvantages of Adapter
 - Multiple adapters may add to the confusion
 
-To access the full working code sample, click [here](https://github.com/kamranalinitb/designpattern-blog/tree/master/structural/src/main/java/adapter "Adapter"){:target="_blank" rel="nofollow noopener"}
+To access the full working code sample, click [here](https://github.com/atechguide/designpattern-blog/tree/master/structural/src/main/java/adapter "Adapter"){:target="_blank" rel="nofollow noopener"}
 
 ## References
 - [Adapter Design Pattern | Implementation and Disadvantages | Clean Code Series](https://www.youtube.com/watch?v=hbXHzweWKMU){:target="_blank" rel="nofollow noopener"}

@@ -10,7 +10,7 @@ tags:
   - SpringSecurity
 label:
   - Spring
-slug: springJWT
+slug: springjwt
 published: true
 image: ../../common/atech-guide.png
 ---
@@ -34,7 +34,7 @@ It is a tokenization format in which we pass our credentials and content in a si
   
 ## Spring Integration
 
-To access the full working code sample, click [here](https://github.com/kamranalinitb/springboot-blog/tree/master/jwt){:target="_blank" rel="nofollow" rel="noopener"}
+To access the full working code sample, click [here](https://github.com/atechguide/springboot-blog/tree/master/jwt){:target="_blank" rel="nofollow" rel="noopener"}
 
 ## Reference
 - [What is JWT? JWT Vs OAuth | Tech Primers](https://www.youtube.com/watch?v=muRr4dImv1k){:target="_blank" rel="nofollow"}  

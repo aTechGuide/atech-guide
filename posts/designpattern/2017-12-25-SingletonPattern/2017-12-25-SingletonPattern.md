@@ -94,7 +94,7 @@ public class SingletonImpl {
 - Hindrance in writing Unit test
 - Confused with Factory design pattern (where we pass an argument to constructor for creating objects)
 
-To access the full working code sample, click [here](https://github.com/kamranalinitb/designpattern-blog/tree/master/creational/src/main/java/singleton "Singleton"){:target="_blank" rel="nofollow noopener"}
+To access the full working code sample, click [here](https://github.com/atechguide/designpattern-blog/tree/master/creational/src/main/java/singleton "Singleton"){:target="_blank" rel="nofollow noopener"}
 
 ## References
 - [Singleton Design Pattern | Implementation and Disadvantages | Clean Code Series](https://www.youtube.com/watch?v=bPIRGre9JHY){:target="_blank" rel="nofollow noopener"}

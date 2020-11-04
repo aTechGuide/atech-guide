@@ -92,7 +92,7 @@ Anaconda comes with a bundle of useful tools. It installs Python (I'm using Pyth
 
 <br/>
 
-You can use [this](https://www.anaconda.com/distribution/){:target="_blank" rel="nofollow" rel="noopener"} link to install Anaconda
+You can use [this](https://www.anaconda.com/products/individual){:target="_blank" rel="nofollow" rel="noopener"} link to install Anaconda
 
 <br/>
 

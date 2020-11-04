@@ -90,7 +90,7 @@ public class AndroidPhone extends SmartPhone {
 - Complex because of a large number of objects
 - Complex for clients as it requires large chaining of objects
 
-To access the full working code sample, click [here](https://github.com/kamranalinitb/designpattern-blog/tree/master/structural/src/main/java/decorator "Decorator"){:target="_blank" rel="nofollow noopener"}
+To access the full working code sample, click [here](https://github.com/atechguide/designpattern-blog/tree/master/structural/src/main/java/decorator "Decorator"){:target="_blank" rel="nofollow noopener"}
 
 ## References
 - [Decorator Design Pattern | Implementation and Disadvantages | Clean Code Series](https://www.youtube.com/watch?v=vqy8BL0xV0c){:target="_blank" rel="nofollow noopener"}

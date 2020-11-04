@@ -70,7 +70,7 @@ public class AbstractFactoryExample {
 - We realise the need of it while refactoring Facotry Pattern
 - It needs knowledge of Factory Pattern
  
-To access the full working code sample, click [here](https://github.com/kamranalinitb/designpattern-blog/tree/master/creational/src/main/java/abstractfactory "AbstractFactory"){:target="_blank" rel="nofollow noopener"}
+To access the full working code sample, click [here](https://github.com/atechguide/designpattern-blog/tree/master/creational/src/main/java/abstractfactory "AbstractFactory"){:target="_blank" rel="nofollow noopener"}
 
 ## References
 - [Abstract Factory Design Pattern | Implementation and Disadvantages | Clean Code Series](https://www.youtube.com/watch?v=hWVfRwgfdGg){:target="_blank" rel="nofollow noopener"}
