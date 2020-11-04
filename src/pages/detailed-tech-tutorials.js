@@ -6,11 +6,11 @@ import AboutLayout from '../components/layouts/AboutLayout';
 
 const About = () => {
   return(
-  <Layout pageTitle="About">
+  <Layout>
     <Seo 
-      title="About"
-      description="About Page"
-      tags={["About Page"]}
+      title="Detailed Technology Tutorials on latest Technologies"
+      description="Detailed Tutorials on Technology. System Design, Blockchain, Big Data In Depth Tutorials"
+      tags={["Detailed Technology Tutorials", "System Design", "Blockchain", "Big Data", "Spark"]}
       slug="/detailed-tech-tutorials"  />
     
     <AboutLayout />

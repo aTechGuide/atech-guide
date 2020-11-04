@@ -5,9 +5,9 @@ import Seo from "gatsby-theme-blog-starter/src/components/seo/Seo"
 import PageLayout from "gatsby-theme-blog-starter/src/components/layout/PageLayout";
 
 const TermsOfUse = () => (
-  <Layout pageTitle="Terms of Use">
+  <Layout>
     <Seo 
-      title="Terms Of Use"
+      title="Terms Of Use ATech Guide - Latest Technology Tutorials"
       description="Terms Of Use for ATech Guide"
       tags={["Terms Of Use"]}
       slug="/terms-of-use" />
@@ -181,7 +181,7 @@ const TermsOfUse = () => (
 
       <h2>Credit & Contact Information</h2>
       <p>This Terms and conditions page was created at <a
-        href="https://termsandconditionstemplate.com">termsandconditionstemplate.com</a> generator. If you have
+        href="https://privacyterms.io/">privacyterms.io</a> generator. If you have
       any queries regarding any of our terms, please <a href="https://www.facebook.com/aTechGuide/" target="_blank" rel="nofollow noopener noreferrer">contact us</a>.</p>
     </PageLayout>
   </Layout>

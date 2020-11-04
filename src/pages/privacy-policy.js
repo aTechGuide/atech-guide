@@ -8,7 +8,7 @@ const privacyPolicy = () => {
   return (
     <Layout>
       <Seo 
-        title="Privacy Policy"
+        title="Privacy Policy ATech Guide - Latest Technology Tutorials"
         description="Privacy Policy of ATech Guide"
         tags={["Privacy Policy"]}
         slug="/privacy-policy" />
@@ -119,7 +119,7 @@ const privacyPolicy = () => {
 
           <h2>Changes and amendments</h2>
 
-          <p>We reserve the right to modify this Policy relating to the Website or Services at any time, effective upon posting of an updated version of this Policy on the Website. When we do we will revise the updated date at the top of this page. Continued use of the Website after any such changes shall constitute your consent to such changes. Policy was created with <a target="_blank" rel="noopener noreferrer" title="Sample privacy policy template" href="https://www.websitepolicies.com/privacy-policy-generator">WebsitePolicies </a> with few changes inspired from <a href="https://termsandconditionstemplate.com/privacy-policy-generator/" title="Privacy policy template generator" target="_blank" rel="noopener noreferrer">termsandconditionstemplate.com</a> and other personal customizations</p>
+          <p>We reserve the right to modify this Policy relating to the Website or Services at any time, effective upon posting of an updated version of this Policy on the Website. When we do we will revise the updated date at the top of this page. Continued use of the Website after any such changes shall constitute your consent to such changes. Policy was created with <a target="_blank" rel="noopener noreferrer" title="Sample privacy policy template" href="https://www.websitepolicies.com/privacy-policy-generator">WebsitePolicies </a> with few changes inspired from <a href="https://privacyterms.io/privacy-policy-generator/" title="Privacy policy template generator" target="_blank" rel="noopener noreferrer">privacyterms.io/privacy-policy-generator</a> and other personal customizations</p>
 
           <h2>Acceptance of this policy</h2>
           <p>You acknowledge that you have read this Policy and agree to all its terms and conditions. By using the Website or its Services you agree to be bound by this Policy. If you do not agree to abide by the terms of this Policy, you are not authorized to use or access the Website and its Services.</p>
