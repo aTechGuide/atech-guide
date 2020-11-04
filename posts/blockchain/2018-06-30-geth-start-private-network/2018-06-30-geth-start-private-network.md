@@ -99,4 +99,4 @@ HTTP endpoint opened                     url=http://127.0.0.1:8545
 ```
 
 ## References
-- [Ethereum Masterclass](https://www.udemy.com/ethereum-masterclass/){:target="_blank" rel="nofollow" rel="noopener"}
+- [Ethereum Masterclass](https://www.udemy.com/course/ethereum-masterclass/){:target="_blank" rel="nofollow" rel="noopener"}

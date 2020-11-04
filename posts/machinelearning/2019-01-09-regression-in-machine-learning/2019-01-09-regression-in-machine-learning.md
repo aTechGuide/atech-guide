@@ -17,7 +17,7 @@ image: ./chart_2.png
 
 <br/>
 
-I've discussed this topic deeply in [this](/machine-learning){:target="_blank"} post. So let's begin with answering
+I've discussed this topic deeply in [this](/machine-learning/){:target="_blank"} post. So let's begin with answering
 
 ## What is Regression problem in Machine Learning
 Regression technique is supervised learning which is used to predict real values like salary (dependent variable) for example with time (independent variable). There are multiple regression techniques,
@@ -1113,6 +1113,6 @@ So that's the summary of regression in machine learning !!!
 ## Reference
 - [Machine learning Wiki](https://en.wikipedia.org/wiki/Machine_learning){:target="_blank" rel="nofollow" rel="noopener"}
 - [wikihow.com/Calculate-P-Value](https://www.wikihow.com/Calculate-P-Value){:target="_blank" rel="nofollow" rel="noopener"}
-- [Machine Learning A-Z™: Hands-On Python & R In Data Science](https://www.udemy.com/machinelearning/){:target="_blank" rel="nofollow" rel="noopener"}
+- [Machine Learning A-Z™: Hands-On Python & R In Data Science](https://www.udemy.com/course/machinelearning/){:target="_blank" rel="nofollow" rel="noopener"}
 
 <!-- Data Set: [here](https://www.superdatascience.com/machine-learning/ ){:target="_blank" rel="nofollow" rel="noopener"} -->

@@ -17,7 +17,7 @@ image: ./logistic-regression-sample.png
 
 <br/>
 
-I've discussed Machine Learning deeply in [this](/machine-learning){:target="_blank"} post and regression in [this](/regression-in-machine-learning){:target="_blank"} post. 
+I've discussed Machine Learning deeply in [this](/machine-learning/){:target="_blank"} post and regression in [this](/regression-in-machine-learning/){:target="_blank"} post. 
 
 <br/>
 

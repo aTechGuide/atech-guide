@@ -472,7 +472,7 @@ Some of them are decent predictions like (90231,91738), (57581,57189) and others
 
 <br/>
 
-You can have a look at the working project [here](https://github.com/kamranalinitb/spark/tree/master/salaryPrediction){:target="_blank" rel="nofollow" rel="noopener"}.
+You can have a look at the working project [here](https://github.com/atechguide/spark/tree/master/salaryPrediction){:target="_blank" rel="nofollow" rel="noopener"}.
 
 <br/>
 

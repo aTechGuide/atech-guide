@@ -223,7 +223,7 @@ In conclusion, I would like to reiterate that **Decentralized** nature i.e. no c
 We can use it to *Conduct Elections*, *Money Transfer*, *Digital Agreements* and what not.
 
 ## References
-- [Getting Started With Ethereum Solidity Development](https://www.udemy.com/getting-started-with-ethereum-solidity-development/){:target="_blank" rel="nofollow" rel="noopener"}
+- [Getting Started With Ethereum Solidity Development](https://www.udemy.com/course/getting-started-with-ethereum-solidity-development/){:target="_blank" rel="nofollow" rel="noopener"}
 - [Proof of Work & Proof of Stake](https://medium.com/loom-network/understanding-blockchain-fundamentals-part-2-proof-of-work-proof-of-stake-b6ae907c7edb){:target="_blank" rel="nofollow" rel="noopener"}
 - [ethereum/wiki/wiki/Proof-of-Stake-FAQs](https://github.com/ethereum/wiki/wiki/Proof-of-Stake-FAQs#what-is-proof-of-stake){:target="_blank" rel="nofollow" rel="noopener"}
 - [What is Blockchain? How does Blockchain Technology work? Tech Primers](https://www.youtube.com/watch?v=q0Y7XQZfPlM "What is Blockchain"){:target="_blank" rel="nofollow" rel="noopener"}  
