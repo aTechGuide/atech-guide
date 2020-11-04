@@ -313,7 +313,7 @@ Let's quickly create a model based on the following data, Where we would be pred
 
 <br/>
 
-Click [here](https://github.com/aTechGuide/machine-learning/blob/master/algorithms/regression/simple_linear_regression/Salary_Data.csv){:target="_blank" rel="nofollow" rel="noopener"} to get Full data.  
+Click [here](https://github.com/atechguide/machine-learning/blob/master/algorithms/regression/simple_linear_regression/Salary_Data.csv){:target="_blank" rel="nofollow" rel="noopener"} to get Full data.  
 **Data Credits**{: .exception} This data is take from [**Superdatascience**](https://www.superdatascience.com/machine-learning/ ){:target="_blank" rel="nofollow" rel="noopener"} data set
 
 <br/>

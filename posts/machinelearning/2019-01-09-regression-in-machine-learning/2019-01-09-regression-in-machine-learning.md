@@ -259,7 +259,7 @@ Similarly, suppose a venture capitalist is looking to spend his money on startup
 
 <br/>
 
-Click [here](https://github.com/aTechGuide/machine-learning/blob/master/algorithms/regression/multiple_linear_regression/50_Startups.csv){:target="_blank" rel="nofollow" rel="noopener"} to get Full data.  
+Click [here](https://github.com/atechguide/machine-learning/blob/master/algorithms/regression/multiple_linear_regression/50_Startups.csv){:target="_blank" rel="nofollow" rel="noopener"} to get Full data.  
 **Data Credits**{: .exception} All the data used in this tutorial is take from [**Superdatascience**](https://www.superdatascience.com/machine-learning/ ){:target="_blank" rel="nofollow" rel="noopener"} data set
 
 <br/>
@@ -306,7 +306,7 @@ One fine point to note here is `State` is a Categorical Variable, so we need to 
 
 <br/>
 
-We will follow the **Step 5**{: .heading2} dicussed in [this](/machine-learning){:target="_blank"} post to create dummy Variables of each category (New York and Florida in our case).
+We will follow the **Step 5**{: .heading2} dicussed in [this](/machine-learning/){:target="_blank"} post to create dummy Variables of each category (New York and Florida in our case).
 
 <br/>
 
@@ -715,7 +715,7 @@ Let’s quickly create a model based on the following data, Where we would like 
 
 <br/>
 
-Click [here](https://github.com/aTechGuide/machine-learning/blob/master/algorithms/regression/polynomial_regression/Position_Salaries.csv){:target="_blank" rel="nofollow" rel="noopener"} to get Full data.  
+Click [here](https://github.com/atechguide/machine-learning/blob/master/algorithms/regression/polynomial_regression/Position_Salaries.csv){:target="_blank" rel="nofollow" rel="noopener"} to get Full data.  
 **Data Credits**{: .exception} All the data used in this tutorial is take from [**Superdatascience**](https://www.superdatascience.com/machine-learning/ ){:target="_blank" rel="nofollow" rel="noopener"} data set
 
 <br/>
