@@ -121,7 +121,7 @@ Let's quickly create a model based on the following data, Where we would be pred
 
 <br/>
 
-Click [here](https://github.com/kamranalinitb/machine-learning/blob/master/data/Part%202%20-%20Regression/Section%204%20-%20Simple%20Linear%20Regression/Salary_Data.csv){:target="_blank" rel="nofollow" rel="noopener"} to get Full data.  
+Click [here](https://github.com/atechguide/machine-learning/blob/master/algorithms/regression/simple_linear_regression/Salary_Data.csv){:target="_blank" rel="nofollow" rel="noopener"} to get Full data.  
 **Data Credits**{: .exception} All the data used in this tutorial is take from [**Superdatascience**](https://www.superdatascience.com/machine-learning/ ){:target="_blank" rel="nofollow" rel="noopener"} data set
 
 <br/>
@@ -259,7 +259,7 @@ Similarly, suppose a venture capitalist is looking to spend his money on startup
 
 <br/>
 
-Click [here](https://github.com/kamranalinitb/machine-learning/blob/master/data/Part%202%20-%20Regression/Section%205%20-%20Multiple%20Linear%20Regression/50_Startups.csv){:target="_blank" rel="nofollow" rel="noopener"} to get Full data.  
+Click [here](https://github.com/aTechGuide/machine-learning/blob/master/algorithms/regression/multiple_linear_regression/50_Startups.csv){:target="_blank" rel="nofollow" rel="noopener"} to get Full data.  
 **Data Credits**{: .exception} All the data used in this tutorial is take from [**Superdatascience**](https://www.superdatascience.com/machine-learning/ ){:target="_blank" rel="nofollow" rel="noopener"} data set
 
 <br/>
@@ -715,7 +715,7 @@ Let’s quickly create a model based on the following data, Where we would like 
 
 <br/>
 
-Click [here](https://github.com/kamranalinitb/machine-learning/blob/master/data/Part%202%20-%20Regression/Section%206%20-%20Polynomial%20Regression/Position_Salaries.csv){:target="_blank" rel="nofollow" rel="noopener"} to get Full data.  
+Click [here](https://github.com/aTechGuide/machine-learning/blob/master/algorithms/regression/polynomial_regression/Position_Salaries.csv){:target="_blank" rel="nofollow" rel="noopener"} to get Full data.  
 **Data Credits**{: .exception} All the data used in this tutorial is take from [**Superdatascience**](https://www.superdatascience.com/machine-learning/ ){:target="_blank" rel="nofollow" rel="noopener"} data set
 
 <br/>
