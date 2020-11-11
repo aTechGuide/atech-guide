@@ -7,6 +7,8 @@ date: '2019-02-26'
 update_date: '2019-09-11'
 tags:
   - Apache Spark
+keywords:
+  - Apache Spark
 label:
   - MachineLearning
 slug: apache-spark-introduction-and-machine-learning-using-sparkml

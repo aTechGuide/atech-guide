@@ -8,6 +8,9 @@ update_date: '2019-09-08'
 tags:
   - Spring
   - Aerospike
+keywords:
+  - Spring
+  - Aerospike
 label:
   - Spring
 slug: spring-aerospike

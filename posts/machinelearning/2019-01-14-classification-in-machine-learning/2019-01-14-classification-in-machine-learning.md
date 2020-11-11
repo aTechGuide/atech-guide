@@ -7,6 +7,8 @@ date: '2019-01-14'
 update_date: '2019-09-08'
 tags:
   - Machine Learning
+keywords:
+  - Machine Learning
 label:
   - MachineLearning
 slug: classification-in-machine-learning

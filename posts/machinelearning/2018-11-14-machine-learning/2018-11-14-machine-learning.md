@@ -7,6 +7,8 @@ date: '2018-11-14'
 update_date: '2019-02-25'
 tags:
   - Machine Learning
+keywords:
+  - Machine Learning
 label:
   - MachineLearning
 slug: machine-learning

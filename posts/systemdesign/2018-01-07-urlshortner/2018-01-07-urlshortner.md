@@ -7,6 +7,8 @@ date: '2018-01-07'
 update_date: '2019-03-19'
 tags:
   - System Design
+keywords:
+  - System Design
 label:
   - SystemDesign
 slug: system-design/url-shortener

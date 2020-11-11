@@ -7,6 +7,8 @@ date: '2018-06-30'
 update_date: '2019-09-09'
 tags:
   - BlockChain
+keywords:
+  - BlockChain
 label:
   - Blockchain
 slug: blockchain/start-geth-private-network

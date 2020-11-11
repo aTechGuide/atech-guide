@@ -7,6 +7,8 @@ date: '2019-01-09'
 update_date: '2020-11-01'
 tags:
   - Machine Learning
+keywords:
+  - Machine Learning
 label:
   - MachineLearning
 slug: regression-in-machine-learning

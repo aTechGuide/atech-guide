@@ -10,8 +10,8 @@ const About = () => {
     <Seo 
       title="Detailed Technology Tutorials on latest Technologies"
       description="Detailed Tutorials on Technology. System Design, Blockchain, Big Data In Depth Tutorials"
-      tags={["Detailed Technology Tutorials", "System Design", "Blockchain", "Big Data", "Spark"]}
-      slug="/detailed-tech-tutorials"  />
+      keywords={["Detailed Technology Tutorials", "System Design", "Blockchain", "Big Data", "Spark"]}
+      slug="detailed-tech-tutorials"  />
     
     <AboutLayout />
   </Layout>

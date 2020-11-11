@@ -7,6 +7,8 @@ date: '2018-10-01'
 update_date: '2018-10-09'
 tags:
   - Reactive Systems
+keywords:
+  - Reactive Systems
 label:
   - SystemDesign
 slug: what-are-reactive-systems

@@ -8,6 +8,8 @@ date: '2017-08-10'
 update_date: '2017-08-10'
 tags:
   - Technology
+keywords:
+  - Technology
 slug: reactive-systems-and-reactive-programming
 published: false
 ---

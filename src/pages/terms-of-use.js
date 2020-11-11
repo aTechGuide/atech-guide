@@ -9,8 +9,8 @@ const TermsOfUse = () => (
     <Seo 
       title="Terms Of Use ATech Guide - Latest Technology Tutorials"
       description="Terms Of Use for ATech Guide"
-      tags={["Terms Of Use"]}
-      slug="/terms-of-use" />
+      keywords={["Terms Of Use"]}
+      slug="terms-of-use" />
 
     <PageLayout title="Terms of Use">
       <p>Last Updated: 03 September 2019</p>

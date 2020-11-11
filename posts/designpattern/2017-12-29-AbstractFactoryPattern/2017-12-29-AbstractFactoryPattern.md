@@ -7,6 +7,8 @@ date: '2017-12-29'
 update_date: '2019-09-09'
 tags:
   - Design Pattern
+keywords:
+  - Design Pattern
 label:
   - DesignPattern
 slug: design-pattern/abstract-factory-pattern

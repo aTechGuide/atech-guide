@@ -7,6 +7,8 @@ date: '2018-03-31'
 update_date: '2019-09-05'
 tags:
   - System Design
+keywords:
+  - System Design
 label:
   - SystemDesign
 slug: system-design/twitter-architecture

@@ -7,6 +7,8 @@ date: '2018-03-31'
 update_date: '2018-10-17'
 tags:
   - BlockChain
+keywords:
+  - BlockChain
 label:
   - Blockchain
 slug: blockchain/what-is-blockchain-technology

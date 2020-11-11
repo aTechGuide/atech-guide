@@ -8,6 +8,9 @@ update_date: '2019-09-08'
 tags:
   - Spring
   - SpringSecurity
+keywords:
+  - Spring
+  - SpringSecurity
 label:
   - Spring
 slug: spring-security-h2

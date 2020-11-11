@@ -7,6 +7,8 @@ date: '2018-08-08'
 update_date: '2018-08-08'
 tags:
   - technology
+keywords:
+  - technology
 label:
   - Spring
 slug: what-is-docker

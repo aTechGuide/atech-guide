@@ -8,6 +8,9 @@ update_date: '2017-12-14'
 tags:
   - Spring
   - OAuth2
+keywords:
+  - Spring
+  - OAuth2
 label:
   - Spring
 slug: springoauth2

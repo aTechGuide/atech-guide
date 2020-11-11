@@ -7,6 +7,8 @@ date: '2018-07-01'
 update_date: '2018-07-09'
 tags:
   - BlockChain
+keywords:
+  - BlockChain
 label:
   - Blockchain
 slug: blockchain/what-is-erc20-token
