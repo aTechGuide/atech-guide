@@ -12,7 +12,7 @@ keywords:
 label:
   - SystemDesign
 slug: what-are-reactive-systems
-published: true
+published: false
 image: ./reactivesystems.png
 ---
 
